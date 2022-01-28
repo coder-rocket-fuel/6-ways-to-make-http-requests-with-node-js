@@ -12,6 +12,6 @@
     "got": "^9.6.0",
     "node-fetch": "^2.6.0",
     "request-promise": "^4.2.4",
-    "simple-get": "^3.0.3"
+    "simple-get": "^4.0.1"
   }
 }
